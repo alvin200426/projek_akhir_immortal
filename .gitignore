@@ -1,0 +1,11 @@
+# Flutter
+flutter_app/.dart_tool/
+flutter_app/.idea/
+flutter_app/.vscode/
+flutter_app/build/
+flutter_app/.packages
+flutter_app/pubspec.lock
+
+# PHP (jika kamu punya folder vendor atau .env)
+php_api/vendor/
+php_api/.env
